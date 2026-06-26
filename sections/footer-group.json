@@ -1,1 +1,119 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"footer-promotions":{"type":"footer-promotions","blocks":{"footer-promotions-0":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}},"footer-promotions-1":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}},"footer-promotions-2":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","title":"Site-wide promotion","text":"<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>","button_label":"Optional button","button_link":""}}},"block_order":["footer-promotions-0","footer-promotions-1","footer-promotions-2"],"disabled":true,"settings":{"hide_homepage":false}},"footer":{"type":"footer","blocks":{"custom_DCgiP4":{"type":"custom","settings":{"show_footer_title":false,"title":"Contact Us","text":"<p><strong>Need help? Please contact our customer service.<\/strong><\/p><p>Monday – Friday: 9:00 – 17:00<\/p><p>Saturday – Sunday: 9:00  – 13:00<\/p><p>Our team is at your disposal 7 days a week. Do not hesitate to contact us.<\/p><p>Email: <a>support@<\/a>parkerandlane-newyork.com<\/p>","container_width":25}},"custom_P9BKLf":{"type":"custom","settings":{"show_footer_title":true,"title":"PARKER&LANE NEW YORK","text":"<p>✓ Dedicated to exceptional service and personal care<br\/>✓ Thoughtfully selected styles for comfort, confidence, and everyday wear<br\/>✓ Complimentary tracked delivery across the US with UPS<br\/><\/p>","container_width":25}},"menu_QpCUYp":{"type":"menu","settings":{"show_footer_title":true,"menu":"customer-account-main-menu","container_width":25}},"footer-1":{"type":"menu","settings":{"show_footer_title":true,"menu":"footer","container_width":25}}},"block_order":["custom_DCgiP4","custom_P9BKLf","menu_QpCUYp","footer-1"],"settings":{"show_locale_selector":false,"show_currency_selector":false,"show_currency_flags":false,"show_payment_icons":false,"show_copyright":true,"copyright_text":""}}},"order":["footer-promotions","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1",
+        "footer-promotions-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "hide_homepage": false
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "custom_DCgiP4": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": false,
+            "title": "Contact Us",
+            "text": "<p><strong>Need help? Please contact our customer service.</strong></p><p>Monday – Friday: 9:00 – 17:00</p><p>Saturday – Sunday: 9:00  – 13:00</p><p>Our team is at your disposal 7 days a week. Do not hesitate to contact us.</p><p>Email: support@parkerandlane-newyork.com</p>",
+            "container_width": 25
+          }
+        },
+        "custom_P9BKLf": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "PARKER&LANE NEW YORK",
+            "text": "<p>✓ Dedicated to exceptional service and personal care<br/>✓ Thoughtfully selected styles for comfort, confidence, and everyday wear<br/>✓ Complimentary tracked delivery across the US with UPS<br/></p>",
+            "container_width": 25
+          }
+        },
+        "menu_QpCUYp": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "customer-account-main-menu",
+            "container_width": 25
+          }
+        },
+        "footer-1": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "footer",
+            "container_width": 25
+          }
+        }
+      },
+      "block_order": [
+        "custom_DCgiP4",
+        "custom_P9BKLf",
+        "menu_QpCUYp",
+        "footer-1"
+      ],
+      "settings": {
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false,
+        "show_payment_icons": false,
+        "show_copyright": true,
+        "copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "footer-promotions",
+    "footer"
+  ]
+}
