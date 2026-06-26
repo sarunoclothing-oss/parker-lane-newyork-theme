@@ -9,35 +9,41 @@
  */
 {
   "sections": {
-    "1782464190297b5770": {
-      "type": "_blocks",
+    "slideshow_X9Xnrn": {
+      "type": "slideshow",
       "blocks": {
-        "ai_gen_block_a13f348_nGztbJ": {
-          "type": "ai_gen_block_a13f348",
+        "image_FnYbyW": {
+          "type": "image",
           "settings": {
-            "video": "shopify://files/videos/graysonandporter-hero-reference.mp4",
-            "overlay_opacity": 0,
-            "heading": "",
-            "subheading": "",
-            "text_alignment": "center",
-            "heading_size": 48,
-            "subheading_size": 18,
-            "text_color": "#ffffff",
-            "button_text": "SHOP NOW",
-            "button_link": "shopify://collections",
-            "button_color": "#0b2044",
-            "button_hover_color": "#333333",
-            "button_text_color": "#c9a86a",
-            "button_font_size": 16,
-            "button_border_radius": 0
-          },
-          "blocks": {}
+            "top_subheading": "",
+            "title": "FINAL SPRING SALE",
+            "title_size": 80,
+            "subheading": "UP TO 70% OFF",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/5989829d-1575-4641-bb1a-43b68083f5de.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_a13f348_nGztbJ"
+        "image_FnYbyW"
       ],
-      "settings": {}
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     },
     "slideshow": {
       "type": "slideshow",
@@ -611,7 +617,7 @@
     }
   },
   "order": [
-    "1782464190297b5770",
+    "slideshow_X9Xnrn",
     "slideshow",
     "rich_text_RQ4YCY",
     "featured_collection_bxLbCR",
