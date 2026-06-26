@@ -20,11 +20,11 @@
             "title_size": 80,
             "subheading": "UP TO 70% OFF",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "SHOP NOW",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "color_accent": "#1F3A32",
+            "text_align": "vertical-center horizontal-left",
             "image": "shopify://shop_images/5989829d-1575-4641-bb1a-43b68083f5de.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
@@ -37,7 +37,7 @@
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
-        "mobile_height": "auto",
+        "mobile_height": "500px",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
