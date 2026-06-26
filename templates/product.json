@@ -140,10 +140,10 @@
         "product_video_style": "muted"
       }
     },
-    "ss_testimonials_42_T7Ezdg": {
+    "ss_testimonials_42_ntFtWY": {
       "type": "ss-testimonials-42",
       "blocks": {
-        "heading_9Qn48Q": {
+        "heading_3Hkpbm": {
           "type": "heading",
           "settings": {
             "heading": "<p>LOVED BY OUR CUSTOMMERS</p>",
@@ -158,7 +158,7 @@
             "heading_color": "#121212"
           }
         },
-        "sub_heading_UHAKTT": {
+        "sub_heading_grm4Et": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "<p>Excellent 4.7/ 5 </p>",
@@ -182,7 +182,7 @@
             "sub_heading_border_color": "#121212"
           }
         },
-        "sub_heading_BVzDUF": {
+        "sub_heading_P77mmK": {
           "type": "sub_heading",
           "disabled": true,
           "settings": {
@@ -207,7 +207,7 @@
             "sub_heading_border_color": "#121212"
           }
         },
-        "heading_XEgDmG": {
+        "heading_LgcpMt": {
           "type": "heading",
           "settings": {
             "heading": "<p>Based on 8,273+ verified reviews</p>",
@@ -222,7 +222,7 @@
             "heading_color": "#121212"
           }
         },
-        "testimonial_7cE7K8": {
+        "testimonial_XJPqYG": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030332.jpg_202606261132.jpg",
@@ -233,7 +233,7 @@
             "verify": "2 hours ago"
           }
         },
-        "testimonial_Ct4RMa": {
+        "testimonial_gLP3Tc": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Create_an_ultra-realistic_casual_mirror_202605162101.jpg_202606261133.jpg",
@@ -244,7 +244,7 @@
             "verify": "17 hours ago"
           }
         },
-        "testimonial_6MBdpE": {
+        "testimonial_6TtACt": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030159_1.jpg_202606261132.jpg",
@@ -255,7 +255,7 @@
             "verify": "5 days ago"
           }
         },
-        "testimonial_C6H9LY": {
+        "testimonial_qVewzL": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030202_1.jpg_202606261132.jpg",
@@ -266,7 +266,7 @@
             "verify": "1 week ago"
           }
         },
-        "testimonial_RUCyBd": {
+        "testimonial_8EUFHV": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Create_an_ultra-realistic_casual_mirror_202605162101_1.jpg_202606261133.jpg",
@@ -277,7 +277,7 @@
             "verify": "6 days ago"
           }
         },
-        "testimonial_FkE8FF": {
+        "testimonial_bmhdib": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030205_1.jpg_202606261132.jpg",
@@ -288,7 +288,7 @@
             "verify": "3 days ago"
           }
         },
-        "testimonial_VLWjfM": {
+        "testimonial_m6EQAn": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/sadfsdgwetb.jpg_202606261135.jpg",
@@ -301,17 +301,17 @@
         }
       },
       "block_order": [
-        "heading_9Qn48Q",
-        "sub_heading_UHAKTT",
-        "sub_heading_BVzDUF",
-        "heading_XEgDmG",
-        "testimonial_7cE7K8",
-        "testimonial_Ct4RMa",
-        "testimonial_6MBdpE",
-        "testimonial_C6H9LY",
-        "testimonial_RUCyBd",
-        "testimonial_FkE8FF",
-        "testimonial_VLWjfM"
+        "heading_3Hkpbm",
+        "sub_heading_grm4Et",
+        "sub_heading_P77mmK",
+        "heading_LgcpMt",
+        "testimonial_XJPqYG",
+        "testimonial_gLP3Tc",
+        "testimonial_6TtACt",
+        "testimonial_qVewzL",
+        "testimonial_8EUFHV",
+        "testimonial_bmhdib",
+        "testimonial_m6EQAn"
       ],
       "custom_css": [],
       "name": "SS - Testimonials #42",
@@ -384,13 +384,13 @@
         "arrow_hover_effect": "color",
         "arrow_mt": 40,
         "arrow_mt_mobile": 32,
-        "image_border_color": "#1f3a32",
-        "text_color": "#1e1e1e",
+        "image_border_color": "#0a1f44",
+        "text_color": "#121212",
         "author_color": "#121212",
         "slide_stars_color": "#c9a86a",
         "slide_bg_color": "#edebe5",
         "slide_border_color": "#121212",
-        "verify_color": "#1e1e1e",
+        "verify_color": "#121212",
         "verify_icon_checkmark_color": "#ffffff",
         "verify_icon_color": "#2f80ed",
         "verify_bg_color": "#eef6ff",
@@ -400,14 +400,14 @@
         "author_image_border_color": "#121212",
         "arrow_color": "#c9a86a",
         "arrow_hover_color": "#7b7b7b",
-        "arrow_bg_color": "#1f3a32",
-        "arrow_bg_hover_color": "#162b25",
-        "arrow_border_color": "#1f3a32",
-        "arrow_border_hover_color": "#162b25",
+        "arrow_bg_color": "#0a1f44",
+        "arrow_bg_hover_color": "#f7f7f7",
+        "arrow_border_color": "#0a1f44",
+        "arrow_border_hover_color": "#0a1f44",
         "background_style": "solid",
         "background_color": "#ffffff",
         "background_gradient": "linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%)",
-        "border_color": "#1f3a32",
+        "border_color": "#0a1f44",
         "margin_top": 0,
         "margin_bottom": 0,
         "margin_horizontal": 0,
@@ -512,7 +512,7 @@
         "image_Kaeyk7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Use_Image_A_as_the_202606140407.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/upscale_this_image_2K_202606262001.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -696,20 +696,20 @@
         "title": "FAQs"
       }
     },
-    "advanced_content_rabrXj": {
+    "advanced_content_NiKQYN": {
       "type": "advanced-content",
       "blocks": {
-        "liquid_mnfq4y": {
+        "liquid_HafUbC": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"marlow-trust-section\">\n  <div class=\"marlow-trust-grid\">\n\n    <!-- Free shipping -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M14 22h26v22H14z\"></path>\n          <path d=\"M40 30h8l6 7v7H40z\"></path>\n          <circle cx=\"23\" cy=\"47\" r=\"4\"></circle>\n          <circle cx=\"48\" cy=\"47\" r=\"4\"></circle>\n          <path d=\"M18 17h18\"></path>\n          <path d=\"M10 28h10\"></path>\n          <path d=\"M8 34h12\"></path>\n        </svg>\n      </div>\n      <h3>FREE SHIPPING</h3>\n      <p>Complimentary tracked delivery across the US with UPS.</p>\n    </div>\n\n    <!-- Returns -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M18 18h28v34H18z\"></path>\n          <path d=\"M24 14v8\"></path>\n          <path d=\"M40 14v8\"></path>\n          <path d=\"M18 26h28\"></path>\n          <path d=\"M25 37h14\"></path>\n          <path d=\"M25 44h10\"></path>\n        </svg>\n      </div>\n      <h3>30-DAY RETURNS</h3>\n      <p>Not quite the right fit? Return your order within 30 days for complete peace of mind.</p>\n    </div>\n\n    <!-- Personal care -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M14 18h36v24H26l-10 8v-8h-2z\"></path>\n          <path d=\"M23 27h18\"></path>\n          <path d=\"M23 34h13\"></path>\n        </svg>\n      </div>\n      <h3>PERSONAL CARE</h3>\n      <p>Our team is here to help with sizing, orders, and questions whenever you need us.</p>\n    </div>\n\n  </div>\n</div>\n\n<style>\n  .marlow-trust-section {\n    width: 100vw;\n    margin-left: calc(50% - 50vw);\n    padding: 64px 24px;\n    background: #F7F4ED;\n    box-sizing: border-box;\n  }\n\n  .marlow-trust-grid {\n    max-width: 940px;\n    margin: 0 auto;\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    align-items: start;\n    gap: 40px 30px;\n  }\n\n  .marlow-trust-item {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .marlow-trust-icon {\n    width: 80px;\n    height: 80px;\n    border-radius: 50%;\n    background: #1F3A32;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-bottom: 22px;\n    transition: transform 0.3s ease, background-color 0.3s ease;\n  }\n\n  .marlow-trust-item:hover .marlow-trust-icon {\n    transform: translateY(-3px);\n    background: #162B25;\n  }\n\n  .marlow-css-icon svg {\n    width: 42px;\n    height: 42px;\n    fill: none;\n    stroke: #C5A46D;\n    stroke-width: 2.2;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n\n  .marlow-trust-item h3 {\n    margin: 0 0 12px;\n    font-family: inherit;\n    font-size: 16px;\n    letter-spacing: 1.6px;\n    line-height: 1.4;\n    font-weight: 700;\n    color: #1F3A32;\n    text-transform: uppercase;\n    text-wrap: balance;\n  }\n\n  .marlow-trust-item p {\n    margin: 0;\n    font-family: inherit;\n    font-size: 13.5px;\n    line-height: 1.65;\n    letter-spacing: 0.2px;\n    color: #2C3A34;\n    max-width: 250px;\n    text-wrap: pretty;\n  }\n\n  @media screen and (max-width: 749px) {\n    .marlow-trust-section {\n      padding: 44px 20px;\n      background: #F7F4ED;\n    }\n\n    .marlow-trust-grid {\n      grid-template-columns: 1fr;\n      gap: 36px;\n      max-width: 360px;\n    }\n\n    .marlow-trust-item:hover .marlow-trust-icon {\n      transform: none;\n      background: #1F3A32;\n    }\n\n    .marlow-trust-icon {\n      width: 72px;\n      height: 72px;\n      margin-bottom: 16px;\n    }\n\n    .marlow-css-icon svg {\n      width: 38px;\n      height: 38px;\n    }\n\n    .marlow-trust-item h3 {\n      font-size: 15px;\n      letter-spacing: 1.4px;\n      margin-bottom: 8px;\n      color: #1F3A32;\n    }\n\n    .marlow-trust-item p {\n      font-size: 13px;\n      line-height: 1.55;\n      max-width: 260px;\n      color: #2C3A34;\n    }\n  }\n</style>",
+            "code": "<div class=\"marlow-trust-section\">\n  <div class=\"marlow-trust-grid\">\n\n    <!-- Free shipping -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M14 22h26v22H14z\"></path>\n          <path d=\"M40 30h8l6 7v7H40z\"></path>\n          <circle cx=\"23\" cy=\"47\" r=\"4\"></circle>\n          <circle cx=\"48\" cy=\"47\" r=\"4\"></circle>\n          <path d=\"M18 17h18\"></path>\n          <path d=\"M10 28h10\"></path>\n          <path d=\"M8 34h12\"></path>\n        </svg>\n      </div>\n      <h3>FREE SHIPPING</h3>\n      <p>Complimentary tracked delivery across the UK with UPS.</p>\n    </div>\n\n    <!-- Returns -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M18 18h28v34H18z\"></path>\n          <path d=\"M24 14v8\"></path>\n          <path d=\"M40 14v8\"></path>\n          <path d=\"M18 26h28\"></path>\n          <path d=\"M25 37h14\"></path>\n          <path d=\"M25 44h10\"></path>\n        </svg>\n      </div>\n      <h3>30-DAY RETURNS</h3>\n      <p>Not quite the right fit? Return your order within 30 days for complete peace of mind.</p>\n    </div>\n\n    <!-- Personal care -->\n    <div class=\"marlow-trust-item\">\n      <div class=\"marlow-trust-icon marlow-css-icon\">\n        <svg viewBox=\"0 0 64 64\" aria-hidden=\"true\">\n          <path d=\"M14 18h36v24H26l-10 8v-8h-2z\"></path>\n          <path d=\"M23 27h18\"></path>\n          <path d=\"M23 34h13\"></path>\n        </svg>\n      </div>\n      <h3>PERSONAL CARE</h3>\n      <p>Our team is here to help with sizing, orders, and questions whenever you need us.</p>\n    </div>\n\n  </div>\n</div>\n\n<style>\n  .marlow-trust-section {\n    width: 100vw;\n    margin-left: calc(50% - 50vw);\n    padding: 64px 24px;\n    background: #ffffff;\n    box-sizing: border-box;\n  }\n\n  .marlow-trust-grid {\n    max-width: 940px;\n    margin: 0 auto;\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    align-items: start;\n    gap: 40px 30px;\n  }\n\n  .marlow-trust-item {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .marlow-trust-icon {\n    width: 80px;\n    height: 80px;\n    border-radius: 50%;\n    background: #f4f4f4;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-bottom: 22px;\n    transition: transform 0.3s ease, background-color 0.3s ease;\n  }\n\n  .marlow-trust-item:hover .marlow-trust-icon {\n    transform: translateY(-3px);\n    background: #ececec;\n  }\n\n  .marlow-css-icon svg {\n    width: 42px;\n    height: 42px;\n    fill: none;\n    stroke: #1a1a1a;\n    stroke-width: 2.2;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n\n  .marlow-trust-item h3 {\n    margin: 0 0 12px;\n    font-family: inherit;\n    font-size: 16px;\n    letter-spacing: 1.6px;\n    line-height: 1.4;\n    font-weight: 700;\n    color: #1a1a1a;\n    text-transform: uppercase;\n    text-wrap: balance;\n  }\n\n  .marlow-trust-item p {\n    margin: 0;\n    font-family: inherit;\n    font-size: 13.5px;\n    line-height: 1.65;\n    letter-spacing: 0.2px;\n    color: #5e5e5e;\n    max-width: 250px;\n    text-wrap: pretty;\n  }\n\n  @media screen and (max-width: 749px) {\n    .marlow-trust-section {\n      padding: 44px 20px;\n    }\n\n    .marlow-trust-grid {\n      grid-template-columns: 1fr;\n      gap: 36px;\n      max-width: 360px;\n    }\n\n    .marlow-trust-item:hover .marlow-trust-icon {\n      transform: none;\n      background: #f4f4f4;\n    }\n\n    .marlow-trust-icon {\n      width: 72px;\n      height: 72px;\n      margin-bottom: 16px;\n    }\n\n    .marlow-css-icon svg {\n      width: 38px;\n      height: 38px;\n    }\n\n    .marlow-trust-item h3 {\n      font-size: 15px;\n      letter-spacing: 1.4px;\n      margin-bottom: 8px;\n    }\n\n    .marlow-trust-item p {\n      font-size: 13px;\n      line-height: 1.55;\n      max-width: 260px;\n    }\n  }\n</style>",
             "width": "100%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "liquid_mnfq4y"
+        "liquid_HafUbC"
       ],
       "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
@@ -778,7 +778,7 @@
   },
   "order": [
     "main",
-    "ss_testimonials_42_T7Ezdg",
+    "ss_testimonials_42_ntFtWY",
     "testimonials_TkkKtN",
     "product-recommendations",
     "advanced_content_FykA6w",
@@ -786,7 +786,7 @@
     "sub",
     "text_columns_zrQrWM",
     "faq_adDLaN",
-    "advanced_content_rabrXj",
+    "advanced_content_NiKQYN",
     "text_with_icons_PQ998N",
     "recently-viewed",
     "collection-return"
