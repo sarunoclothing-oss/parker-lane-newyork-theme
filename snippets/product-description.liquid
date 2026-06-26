@@ -1,0 +1,24 @@
+{% capture description %}
+  {%- if product.empty? -%}
+    {{ 'home_page.onboarding.product_description' | t }}
+  {%- elsif product.description contains '<table' -%}
+    {%- assign desc_before = product.description | split: '<table' | first -%}
+    {%- assign desc_after = product.description | split: '</table>' | last -%}
+    {{ desc_before }}{{ desc_after }}
+  {%- else -%}
+    {{ product.description }}
+  {%- endif -%}
+{% endcapture %}
+
+{%- if product.description contains '<table' -%}
+  {%- assign chart_inner = product.description | split: '<table' | last | split: '</table>' | first -%}
+  <template data-size-chart-source>{{ '<table' | append: chart_inner | append: '</table>' }}</template>
+{%- endif -%}
+{%- if is_tab -%}
+  {% assign title = 'products.product.description' | t %}
+  {%- render 'tab', id: id, title: title, content: description -%}
+{%- else -%}
+  <div class="rte">
+    {{ description }}
+  </div>
+{%- endif -%}

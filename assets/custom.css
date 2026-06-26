@@ -1,0 +1,43 @@
+.tool-tip-trigger[data-tool-tip="size-chart"] .tool-tip-trigger__title,
+.tool-tip-trigger[data-size-chart-trigger] .tool-tip-trigger__title {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.size-chart-unit-toggle {
+  display: flex;
+  justify-content: center;
+  width: max-content;
+  margin: 0 auto 1em;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  overflow: hidden;
+  font-size: 0.85em;
+}
+
+.size-chart-unit-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  border: 0;
+  padding: 0.5em 1.25em;
+  font: inherit;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.size-chart-unit-btn + .size-chart-unit-btn {
+  border-left: 1px solid currentColor;
+}
+
+.size-chart-unit-btn:hover:not(.is-active) {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.size-chart-unit-btn.is-active {
+  background: #9C8B7A;
+  color: #fff;
+}
