@@ -76,7 +76,7 @@
         "custom_cR8jV7": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"stock-update\">\n  <p style=\"background-color: #f7f7f7; padding: 15px; border-radius: 5px; color: #1a1a1a; font-size: 13px; border-left: 3px solid #c0392b;\">\n    <strong>SALE UPDATE:</strong> Due to high demand during our Summer Sale, only a limited number of items are left!\n  </p>\n</div>"
+            "code": "<div class=\"stock-update\">\n  <p style=\"background-color: #f7f7f7; padding: 15px; border-radius: 5px; color: #1a1a1a; font-size: 13px; border-left: 3px solid #c0392b;\">\n    <strong>SALE UPDATE:</strong> Due to high demand during our Final Spring Sale, only a limited number of items are left!\n  </p>\n</div>"
           }
         },
         "tab_YFJFMm": {
