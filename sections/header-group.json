@@ -1,1 +1,91 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"announcement":{"type":"announcement","blocks":{"announcement-0":{"type":"announcement","settings":{"text":"Final Spring Sale : UP TO 70% OFF!","link_text":"","link":""}}},"block_order":["announcement-0"],"settings":{"announcement_compact":true}},"header":{"type":"header","blocks":{"header-0":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/Parker___Lane_New_York_202606260332.jpg","desktop_logo_width":210,"mobile_logo_width":200}}},"block_order":["header-0"],"settings":{"main_menu_link_list":"main-menu","hover_menu":true,"mega_menu_images":false,"main_menu_alignment":"center","header_style":"sticky","sticky_index":false,"sticky_collection":false,"toolbar_menu":"","toolbar_social":false,"show_locale_selector":false,"show_currency_selector":false,"show_currency_flags":false}},"advanced_content_WT6UQh":{"type":"advanced-content","blocks":{"liquid_JQF7ea":{"type":"liquid","settings":{"code":"<style>\n  .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n    background-color: #0A1F44;;\n    color: #ffffff;\n    padding: 8px 20px;\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    justify-content: center;\n    gap: 16px;\n    flex-wrap: wrap;\n    font-family: inherit;\n    width: 100%;\n    box-sizing: border-box;\n  }\n\n  .countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va {\n    margin: 0;\n    font-size: 14px;\n    font-weight: 600;\n    letter-spacing: 0.04em;\n    color: #ffffff;;\n    line-height: 1.2;\n  }\n\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va {\n    display: grid;\n    align-items: center;\n    justify-items: center;\n    row-gap: 1px;\n    column-gap: 2px;\n  }\n\n  .countdown_time_cmckpv9zl00gdhafijll567va {\n    font-size: 16px;\n    font-weight: 700;\n    color: #ffffff;;\n    font-variant-numeric: tabular-nums;\n    line-height: 1.1;\n    min-width: 2ch;\n    text-align: center;\n  }\n\n  .countdown_separator_cmckpv9zl00gdhafijll567va {\n    font-size: 16px;\n    font-weight: 700;\n    color: #ffffff;\n    line-height: 1.1;\n  }\n\n  .countdown_legend_cmckpv9zl00gdhafijll567va {\n    font-size: 9px;\n    font-weight: 400;\n    letter-spacing: 0.02em;\n    color: #ffffff;;\n    line-height: 1;\n    grid-row: 2;\n  }\n\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(1) { grid-column: 1; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(2) { grid-column: 3; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(3) { grid-column: 5; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(4) { grid-column: 7; }\n\n  @media (max-width: 600px) {\n    .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n      padding: 6px 10px;\n      gap: 10px;\n      flex-wrap: nowrap;\n      justify-content: center;\n    }\n    .countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va {\n      font-size: 11px;\n      white-space: nowrap;\n    }\n    .countdown_time_cmckpv9zl00gdhafijll567va,\n    .countdown_separator_cmckpv9zl00gdhafijll567va {\n      font-size: 13px;\n    }\n    .countdown_legend_cmckpv9zl00gdhafijll567va {\n      font-size: 8px;\n    }\n    .countdown_wrapper_cmckpv9zl00gdhafijll567va {\n      flex-shrink: 0;\n    }\n  }\n\n  @media (max-width: 340px) {\n    .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n      flex-wrap: wrap;\n    }\n  }\n<\/style>\n\n<section id=\"shopify-section-sections--24651667439950__1751387849d80a958a\" class=\"shopify-section shopify-section-group-header-group\">\n  <div id=\"shopify-block-AUVV3VUphRTV0YjdVb__countdown_timer_essential_app_block_qgn9bM\" class=\"shopify-block shopify-app-block\">\n    <div class=\"countdown-timer-block\" countdown-timer-id=\"cmckpv9zl00gdhafijll567va\">\n      <div class=\"essential_countdown_annoucement_bar_wrapper countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va\">\n        <div>\n          <p class=\"countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va h2\">OUR BIGGEST SALE EVER ENDS SOON!<\/p>\n        <\/div>\n        <div>\n          <div class=\"countdown_wrapper_cmckpv9zl00gdhafijll567va essential_countdown_timer notranslate\" style=\"grid-template-columns: 1fr 10px 1fr 10px 1fr 10px 1fr;\">\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"days\">00<\/span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:<\/span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"hours\">00<\/span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:<\/span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"minutes\">00<\/span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:<\/span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"seconds\">00<\/span>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Days<\/div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Hrs<\/div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Mins<\/div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va last\">Secs<\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/section>\n\n<script>\n(function () {\n  var block = document.querySelector('[countdown-timer-id=\"cmckpv9zl00gdhafijll567va\"]');\n  if (!block) return;\n\n  var timeEls = block.querySelectorAll('.countdown_time_cmckpv9zl00gdhafijll567va');\n  if (timeEls.length < 4) return;\n\n  function pad(n) {\n    n = String(n);\n    return n.length < 2 ? '0' + n : n;\n  }\n\n  function getDublinSecondsOfDay() {\n    var now = new Date();\n    var parts = new Intl.DateTimeFormat('en-GB', {\n      timeZone: 'Europe\/Dublin',\n      hour12: false,\n      hour: '2-digit',\n      minute: '2-digit',\n      second: '2-digit'\n    }).formatToParts(now);\n\n    var h = 0, m = 0, s = 0;\n    for (var i = 0; i < parts.length; i++) {\n      var p = parts[i];\n      if (p.type === 'hour') h = parseInt(p.value, 10);\n      else if (p.type === 'minute') m = parseInt(p.value, 10);\n      else if (p.type === 'second') s = parseInt(p.value, 10);\n    }\n    if (h === 24) h = 0;\n    return h * 3600 + m * 60 + s;\n  }\n\n  function update() {\n    var secondsToday = getDublinSecondsOfDay();\n    var remaining = 86400 - secondsToday;\n    if (remaining >= 86400) remaining = 0;\n\n    var days = Math.floor(remaining \/ 86400);\n    var hours = Math.floor((remaining % 86400) \/ 3600);\n    var minutes = Math.floor((remaining % 3600) \/ 60);\n    var seconds = remaining % 60;\n\n    timeEls[0].textContent = pad(days);\n    timeEls[1].textContent = pad(hours);\n    timeEls[2].textContent = pad(minutes);\n    timeEls[3].textContent = pad(seconds);\n  }\n\n  update();\n  setInterval(update, 1000);\n})();\n<\/script>","width":"100%","alignment":"center"}}},"block_order":["liquid_JQF7ea"],"name":"t:sections.advanced-content.presets.custom_content.name","settings":{"full_width":true,"space_around":false,"lazyload_images":false}}},"order":["announcement","header","advanced_content_WT6UQh"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Final Spring Sale : UP TO 70% OFF!",
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0"
+      ],
+      "settings": {
+        "announcement_compact": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/7c311072-a4da-4c5d-a9aa-e51e8be0180c.png",
+            "desktop_logo_width": 210,
+            "mobile_logo_width": 200
+          }
+        }
+      },
+      "block_order": [
+        "header-0"
+      ],
+      "settings": {
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "mega_menu_images": false,
+        "main_menu_alignment": "center",
+        "header_style": "sticky",
+        "sticky_index": false,
+        "sticky_collection": false,
+        "toolbar_menu": "",
+        "toolbar_social": false,
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false
+      }
+    },
+    "advanced_content_WT6UQh": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_JQF7ea": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n  .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n    background-color: #162B25;;\n    color: #ffffff;\n    padding: 8px 20px;\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    justify-content: center;\n    gap: 16px;\n    flex-wrap: wrap;\n    font-family: inherit;\n    width: 100%;\n    box-sizing: border-box;\n  }\n\n  .countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va {\n    margin: 0;\n    font-size: 14px;\n    font-weight: 600;\n    letter-spacing: 0.04em;\n    color: #ffffff;;\n    line-height: 1.2;\n  }\n\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va {\n    display: grid;\n    align-items: center;\n    justify-items: center;\n    row-gap: 1px;\n    column-gap: 2px;\n  }\n\n  .countdown_time_cmckpv9zl00gdhafijll567va {\n    font-size: 16px;\n    font-weight: 700;\n    color: #ffffff;;\n    font-variant-numeric: tabular-nums;\n    line-height: 1.1;\n    min-width: 2ch;\n    text-align: center;\n  }\n\n  .countdown_separator_cmckpv9zl00gdhafijll567va {\n    font-size: 16px;\n    font-weight: 700;\n    color: #ffffff;\n    line-height: 1.1;\n  }\n\n  .countdown_legend_cmckpv9zl00gdhafijll567va {\n    font-size: 9px;\n    font-weight: 400;\n    letter-spacing: 0.02em;\n    color: #ffffff;;\n    line-height: 1;\n    grid-row: 2;\n  }\n\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(1) { grid-column: 1; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(2) { grid-column: 3; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(3) { grid-column: 5; }\n  .countdown_wrapper_cmckpv9zl00gdhafijll567va > div:nth-of-type(4) { grid-column: 7; }\n\n  @media (max-width: 600px) {\n    .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n      padding: 6px 10px;\n      gap: 10px;\n      flex-wrap: nowrap;\n      justify-content: center;\n    }\n    .countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va {\n      font-size: 11px;\n      white-space: nowrap;\n    }\n    .countdown_time_cmckpv9zl00gdhafijll567va,\n    .countdown_separator_cmckpv9zl00gdhafijll567va {\n      font-size: 13px;\n    }\n    .countdown_legend_cmckpv9zl00gdhafijll567va {\n      font-size: 8px;\n    }\n    .countdown_wrapper_cmckpv9zl00gdhafijll567va {\n      flex-shrink: 0;\n    }\n  }\n\n  @media (max-width: 340px) {\n    .countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va {\n      flex-wrap: wrap;\n    }\n  }\n</style>\n\n<section id=\"shopify-section-sections--24651667439950__1751387849d80a958a\" class=\"shopify-section shopify-section-group-header-group\">\n  <div id=\"shopify-block-AUVV3VUphRTV0YjdVb__countdown_timer_essential_app_block_qgn9bM\" class=\"shopify-block shopify-app-block\">\n    <div class=\"countdown-timer-block\" countdown-timer-id=\"cmckpv9zl00gdhafijll567va\">\n      <div class=\"essential_countdown_annoucement_bar_wrapper countdown_annoucement_bar_wrapper_cmckpv9zl00gdhafijll567va\">\n        <div>\n          <p class=\"countdown_annoucement_bar_title_cmckpv9zl00gdhafijll567va h2\">OUR BIGGEST SALE EVER ENDS SOON!</p>\n        </div>\n        <div>\n          <div class=\"countdown_wrapper_cmckpv9zl00gdhafijll567va essential_countdown_timer notranslate\" style=\"grid-template-columns: 1fr 10px 1fr 10px 1fr 10px 1fr;\">\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"days\">00</span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:</span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"hours\">00</span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:</span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"minutes\">00</span>\n            <span class=\"countdown_separator_cmckpv9zl00gdhafijll567va\">:</span>\n            <span class=\"countdown_time_cmckpv9zl00gdhafijll567va\" data-unit=\"seconds\">00</span>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Days</div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Hrs</div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va\">Mins</div>\n            <div class=\"countdown_legend_cmckpv9zl00gdhafijll567va last\">Secs</div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</section>\n\n<script>\n(function () {\n  var block = document.querySelector('[countdown-timer-id=\"cmckpv9zl00gdhafijll567va\"]');\n  if (!block) return;\n\n  var timeEls = block.querySelectorAll('.countdown_time_cmckpv9zl00gdhafijll567va');\n  if (timeEls.length < 4) return;\n\n  function pad(n) {\n    n = String(n);\n    return n.length < 2 ? '0' + n : n;\n  }\n\n  function getDublinSecondsOfDay() {\n    var now = new Date();\n    var parts = new Intl.DateTimeFormat('en-GB', {\n      timeZone: 'Europe/Dublin',\n      hour12: false,\n      hour: '2-digit',\n      minute: '2-digit',\n      second: '2-digit'\n    }).formatToParts(now);\n\n    var h = 0, m = 0, s = 0;\n    for (var i = 0; i < parts.length; i++) {\n      var p = parts[i];\n      if (p.type === 'hour') h = parseInt(p.value, 10);\n      else if (p.type === 'minute') m = parseInt(p.value, 10);\n      else if (p.type === 'second') s = parseInt(p.value, 10);\n    }\n    if (h === 24) h = 0;\n    return h * 3600 + m * 60 + s;\n  }\n\n  function update() {\n    var secondsToday = getDublinSecondsOfDay();\n    var remaining = 86400 - secondsToday;\n    if (remaining >= 86400) remaining = 0;\n\n    var days = Math.floor(remaining / 86400);\n    var hours = Math.floor((remaining % 86400) / 3600);\n    var minutes = Math.floor((remaining % 3600) / 60);\n    var seconds = remaining % 60;\n\n    timeEls[0].textContent = pad(days);\n    timeEls[1].textContent = pad(hours);\n    timeEls[2].textContent = pad(minutes);\n    timeEls[3].textContent = pad(seconds);\n  }\n\n  update();\n  setInterval(update, 1000);\n})();\n</script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_JQF7ea"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header",
+    "advanced_content_WT6UQh"
+  ]
+}
