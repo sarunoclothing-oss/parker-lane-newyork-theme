@@ -120,7 +120,7 @@
       ],
       "settings": {
         "title": "Customer Favourites",
-        "home_featured_products": "oude-winners",
+        "home_featured_products": "bestsellers",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
