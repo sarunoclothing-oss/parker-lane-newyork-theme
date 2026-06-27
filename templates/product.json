@@ -140,10 +140,10 @@
         "product_video_style": "muted"
       }
     },
-    "ss_testimonials_42_ntFtWY": {
+    "ss_testimonials_42_hwjTTC": {
       "type": "ss-testimonials-42",
       "blocks": {
-        "heading_3Hkpbm": {
+        "heading_3xyHni": {
           "type": "heading",
           "settings": {
             "heading": "<p>LOVED BY OUR CUSTOMMERS</p>",
@@ -158,7 +158,7 @@
             "heading_color": "#121212"
           }
         },
-        "sub_heading_grm4Et": {
+        "sub_heading_jDeCnP": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "<p>Excellent 4.7/ 5 </p>",
@@ -182,7 +182,7 @@
             "sub_heading_border_color": "#121212"
           }
         },
-        "sub_heading_P77mmK": {
+        "sub_heading_cnGEh4": {
           "type": "sub_heading",
           "disabled": true,
           "settings": {
@@ -207,7 +207,7 @@
             "sub_heading_border_color": "#121212"
           }
         },
-        "heading_LgcpMt": {
+        "heading_CgPMEa": {
           "type": "heading",
           "settings": {
             "heading": "<p>Based on 8,273+ verified reviews</p>",
@@ -222,18 +222,18 @@
             "heading_color": "#121212"
           }
         },
-        "testimonial_XJPqYG": {
+        "testimonial_wEbdbk": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030332.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271337.jpg",
             "stars_count": 5,
-            "text": "<p>Beautiful quality and so comfortable. I wore it for lunch with my daughter and felt lovely in it all day.</p>",
-            "author": "Susan C.",
+            "text": "<p>My order arrived quickly and was beautifully packaged. The tankini is so comfortable, the tummy coverage is great, and I finally feel confident going back to the pool and beach.</p>",
+            "author": "Elizabeth O.",
             "hide_author_image": true,
-            "verify": "2 hours ago"
+            "verify": "3 days ago"
           }
         },
-        "testimonial_gLP3Tc": {
+        "testimonial_DdznkT": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Create_an_ultra-realistic_casual_mirror_202605162101.jpg_202606261133.jpg",
@@ -244,29 +244,40 @@
             "verify": "17 hours ago"
           }
         },
-        "testimonial_6TtACt": {
+        "testimonial_9pezWA": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030159_1.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271353.jpg",
             "stars_count": 5,
-            "text": "<p>I was unsure at first, but I’m so glad I ordered. Beautiful quality, lovely packaging, and both pieces fit perfectly. I’ve already ordered again.</p>",
+            "text": "<p>I was unsure at first, but I’m so glad I ordered. The dress is beautiful, the quality feels lovely, and it fits perfectly. I’m already planning to order another one.</p>",
             "author": "Helen K.",
             "hide_author_image": true,
             "verify": "5 days ago"
           }
         },
-        "testimonial_qVewzL": {
+        "testimonial_8MWFBP": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030202_1.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271335.jpg",
             "stars_count": 5,
-            "text": "<p>I contacted customer support about sizing before ordering and they were incredibly helpful. The cardigan fits perfectly and feels wonderfully comfortable.</p>",
+            "text": "<p>I contacted customer support about sizing before ordering and they were incredibly helpful. The swimsuit fits perfectly, feels comfortable, and gives me the coverage I was hoping for.</p>",
             "author": "Caroline W.",
             "hide_author_image": true,
             "verify": "1 week ago"
           }
         },
-        "testimonial_8EUFHV": {
+        "testimonial_r4iptP": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271349.jpg",
+            "stars_count": 5,
+            "text": "<p>Beautiful quality and so comfortable. I wore it for lunch with my daughter and felt lovely in it all day.</p>",
+            "author": "Susan C.",
+            "hide_author_image": true,
+            "verify": "2 hours ago"
+          }
+        },
+        "testimonial_ejWJrJ": {
           "type": "testimonial",
           "settings": {
             "image": "shopify://shop_images/Create_an_ultra-realistic_casual_mirror_202605162101_1.jpg_202606261133.jpg",
@@ -277,23 +288,12 @@
             "verify": "6 days ago"
           }
         },
-        "testimonial_bmhdib": {
+        "testimonial_VXAjVd": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030205_1.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271341.jpg",
             "stars_count": 5,
-            "text": "<p>My package arrived quickly and looked beautifully presented. I’m very happy with the dress and the overall quality.</p>",
-            "author": "Elizabeth O.",
-            "hide_author_image": true,
-            "verify": "3 days ago"
-          }
-        },
-        "testimonial_m6EQAn": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/sadfsdgwetb.jpg_202606261135.jpg",
-            "stars_count": 5,
-            "text": "<p>Arrived quickly in Bristol and was packed with real care. The cardigan feels beautifully made and like it will last for years.</p>",
+            "text": "<p>Arrived quickly in Austin and was packed with real care. The cardigan feels beautifully made and like it will last for years.</p>",
             "author": "Lily C.",
             "hide_author_image": true,
             "verify": "8 hours ago"
@@ -301,17 +301,17 @@
         }
       },
       "block_order": [
-        "heading_3Hkpbm",
-        "sub_heading_grm4Et",
-        "sub_heading_P77mmK",
-        "heading_LgcpMt",
-        "testimonial_XJPqYG",
-        "testimonial_gLP3Tc",
-        "testimonial_6TtACt",
-        "testimonial_qVewzL",
-        "testimonial_8EUFHV",
-        "testimonial_bmhdib",
-        "testimonial_m6EQAn"
+        "heading_3xyHni",
+        "sub_heading_jDeCnP",
+        "sub_heading_cnGEh4",
+        "heading_CgPMEa",
+        "testimonial_wEbdbk",
+        "testimonial_DdznkT",
+        "testimonial_9pezWA",
+        "testimonial_8MWFBP",
+        "testimonial_r4iptP",
+        "testimonial_ejWJrJ",
+        "testimonial_VXAjVd"
       ],
       "custom_css": [],
       "name": "SS - Testimonials #42",
@@ -384,13 +384,13 @@
         "arrow_hover_effect": "color",
         "arrow_mt": 40,
         "arrow_mt_mobile": 32,
-        "image_border_color": "#0a1f44",
-        "text_color": "#121212",
+        "image_border_color": "#1f3a32",
+        "text_color": "#1e1e1e",
         "author_color": "#121212",
         "slide_stars_color": "#c9a86a",
         "slide_bg_color": "#edebe5",
         "slide_border_color": "#121212",
-        "verify_color": "#121212",
+        "verify_color": "#1e1e1e",
         "verify_icon_checkmark_color": "#ffffff",
         "verify_icon_color": "#2f80ed",
         "verify_bg_color": "#eef6ff",
@@ -400,14 +400,14 @@
         "author_image_border_color": "#121212",
         "arrow_color": "#c9a86a",
         "arrow_hover_color": "#7b7b7b",
-        "arrow_bg_color": "#0a1f44",
-        "arrow_bg_hover_color": "#f7f7f7",
-        "arrow_border_color": "#0a1f44",
-        "arrow_border_hover_color": "#0a1f44",
+        "arrow_bg_color": "#1f3a32",
+        "arrow_bg_hover_color": "#162b25",
+        "arrow_border_color": "#1f3a32",
+        "arrow_border_hover_color": "#162b25",
         "background_style": "solid",
         "background_color": "#ffffff",
         "background_gradient": "linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%)",
-        "border_color": "#0a1f44",
+        "border_color": "#1f3a32",
         "margin_top": 0,
         "margin_bottom": 0,
         "margin_horizontal": 0,
@@ -778,7 +778,7 @@
   },
   "order": [
     "main",
-    "ss_testimonials_42_ntFtWY",
+    "ss_testimonials_42_hwjTTC",
     "testimonials_TkkKtN",
     "product-recommendations",
     "advanced_content_FykA6w",
