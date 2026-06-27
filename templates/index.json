@@ -313,15 +313,15 @@
             "heading_color": "#121212"
           }
         },
-        "testimonial_XJPqYG": {
+        "testimonial_bmhdib": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030332.jpg_202606261132.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271337.jpg",
             "stars_count": 5,
-            "text": "<p>Beautiful quality and so comfortable. I wore it for lunch with my daughter and felt lovely in it all day.</p>",
-            "author": "Susan C.",
+            "text": "<p>My package arrived quickly and looked beautifully presented. I’m very happy with the dress and the overall quality.</p>",
+            "author": "Elizabeth O.",
             "hide_author_image": true,
-            "verify": "2 hours ago"
+            "verify": "3 days ago"
           }
         },
         "testimonial_gLP3Tc": {
@@ -357,6 +357,17 @@
             "verify": "1 week ago"
           }
         },
+        "testimonial_XJPqYG": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Edit_the_uploaded_customer_review_202606030332.jpg_202606261132.jpg",
+            "stars_count": 5,
+            "text": "<p>Beautiful quality and so comfortable. I wore it for lunch with my daughter and felt lovely in it all day.</p>",
+            "author": "Susan C.",
+            "hide_author_image": true,
+            "verify": "2 hours ago"
+          }
+        },
         "testimonial_8EUFHV": {
           "type": "testimonial",
           "settings": {
@@ -368,21 +379,10 @@
             "verify": "6 days ago"
           }
         },
-        "testimonial_bmhdib": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/Use_Image_A_as_the_202606271337.jpg",
-            "stars_count": 5,
-            "text": "<p>My package arrived quickly and looked beautifully presented. I’m very happy with the dress and the overall quality.</p>",
-            "author": "Elizabeth O.",
-            "hide_author_image": true,
-            "verify": "3 days ago"
-          }
-        },
         "testimonial_m6EQAn": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/sadfsdgwetb.jpg_202606261135.jpg",
+            "image": "shopify://shop_images/Use_Image_A_as_the_202606271341.jpg",
             "stars_count": 5,
             "text": "<p>Arrived quickly in Bristol and was packed with real care. The cardigan feels beautifully made and like it will last for years.</p>",
             "author": "Lily C.",
@@ -396,12 +396,12 @@
         "sub_heading_grm4Et",
         "sub_heading_P77mmK",
         "heading_LgcpMt",
-        "testimonial_XJPqYG",
+        "testimonial_bmhdib",
         "testimonial_gLP3Tc",
         "testimonial_6TtACt",
         "testimonial_qVewzL",
+        "testimonial_XJPqYG",
         "testimonial_8EUFHV",
-        "testimonial_bmhdib",
         "testimonial_m6EQAn"
       ],
       "custom_css": [],
